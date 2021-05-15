@@ -1,6 +1,9 @@
 # A Written Report for the School District Analysis 
 
-## Overview of the school district analysis
+## Overview of School District Analysis
+School District Analysis is a project to essentially refactor the code in PyCitySchools. The original code took data from two excel csv files and formatted them so that data could be read easily. This included cleaning the student data to insure there were no additional prefix or suffix, generating the school/district summary and averaging group scores across all grades for fifteen separate highschools. The School District Analysis completes all this and more as the school board has found evidence of academic dishonesty in the 9th grade class in Thomas High School. The objective then is to replace the reading and math grades in Thomas High School for only the 9th grade class. 
+
+Using newly acquired data the refactored code will also need to recreate the district summary, the school summary, the top 5 and bottom 5 schools, as well as the average math and reading scores for each grade level from each school. Finally the spending data, which is separated by students, school size, and school type.  
 
 
 
@@ -10,14 +13,20 @@
 **Software** : Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
 
 ## Results
+- District Summary
+- School Summary
+- Replacing Scores
 
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 
   
 ## Summary
+4 changes in the updated school distrcit after the replacement scores. 
 
 
-
-### Example of Finalized Summary 
 
 
 
