@@ -53,6 +53,7 @@ Use LOC function once again as well as COUNT() to find the number of students in
 - Creating a district_summary_df and formatting every number to have a comma for a thousands separator and decimal seperator. ![Part 5](https://user-images.githubusercontent.com/82983000/118373135-40f3e100-b583-11eb-90e2-ab30454eeec7.png)
 ### School Summary
   
+- Determining the school type was already completed in “PyCitySchools” and everything here is done to find the per school summary based on scores and budget. ![Part 6](https://user-images.githubusercontent.com/82983000/118373287-0e96b380-b584-11eb-9709-29e4c385251f.png)
 
 
 
