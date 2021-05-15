@@ -65,8 +65,7 @@ Use LOC function once again as well as COUNT() to find the number of students in
 
   - passing_math = school_data_complete_df.loc[(school_data_complete_df["school_name"]=="Thomas High School") & (school_data_complete_df["math_score"] >= 70)].count()["Student ID"]
   - passing_reading = school_data_complete_df.loc[(school_data_complete_df["school_name"]=="Thomas High School") & (school_data_complete_df["reading_score"]
-
-- ![Part 10](https://user-images.githubusercontent.com/82983000/118373606-d7290680-b585-11eb-9568-2767937a7726.png)
+ ![Part 10](https://user-images.githubusercontent.com/82983000/118373606-d7290680-b585-11eb-9568-2767937a7726.png)
 
 
 
