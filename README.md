@@ -69,6 +69,8 @@ Use LOC function once again as well as COUNT() to find the number of students in
 ![Part 11](https://user-images.githubusercontent.com/82983000/118373652-06d80e80-b586-11eb-97c6-af60731ca26e.png)
 - Calculate the percentage of 10th-12th grade students passing math and reading and then combining them into an overall passing percentage as had been done before during “clean student data.”![Part 12](https://user-images.githubusercontent.com/82983000/118373776-836aed00-b586-11eb-888c-eb25e8877580.png)
 
+- Using the LOC function to replace the passing math and reading percentage for Thomas High school in the per_school_summary Dataframe. As well as Overall passing percentage. ![Part 13](https://user-images.githubusercontent.com/82983000/118373873-02602580-b587-11eb-9671-af445ddaaeee.png)
+![Part 14](https://user-images.githubusercontent.com/82983000/118373887-186de600-b587-11eb-88f5-8ba512788428.png)
 
 
 
