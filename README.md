@@ -88,7 +88,7 @@ Use LOC function once again as well as COUNT() to find the number of students in
 ![Part 20](https://user-images.githubusercontent.com/82983000/118376762-eadd6880-b597-11eb-8651-9ec79b3a12e5.png)
 
 ### Scores by School Spending, Scores by School Size
-The following two taskts Scores by School Spending and Scores by School Size are the same as they both follow the same process of creating BINS based on "PyCitySchools" variables. Calculating average is a simple GROUPY function in conjunction with adding MEAN() and making sure the new dictionaries are included in the spending_summary_df and school_size_summary_df. Formatting is again the same code as used before to format the previous Dataframes. 
+- The following two taskts Scores by School Spending and Scores by School Size are the same as they both follow the same process of creating BINS based on "PyCitySchools" variables. Calculating average is a simple GROUPY function in conjunction with adding MEAN() and making sure the new dictionaries are included in the spending_summary_df and school_size_summary_df. Formatting is again the same code as used before to format the previous Dataframes. 
 
 ![Part 21](https://user-images.githubusercontent.com/82983000/118376977-2d537500-b599-11eb-916f-a052c36f72e5.png)
 ![Part 22](https://user-images.githubusercontent.com/82983000/118376979-32182900-b599-11eb-9aad-0aa91700af9f.png)
@@ -98,6 +98,7 @@ The following two taskts Scores by School Spending and Scores by School Size are
 
 
 ### Scores by School Type
+- Calculating the averages for desired columns is making sure that the MEAN() function is used specifically by the respective GROUPBY functions. All the new dictionaries are then assembled into the new school_type_summary Dataframe and then formatted like all the other dataframes. ![Part 26](https://user-images.githubusercontent.com/82983000/118377106-d4381100-b599-11eb-92b1-cb3ab195cebc.png)
 
 
 
