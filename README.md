@@ -27,4 +27,4 @@
 This section is an addition created to further explain the code and why some lines of code are used. This will make it easier to review further down the line should anyone ever need to revisit syntax or misunderstand what certain lines accomplishes. The challenge itself is called "PyCitySchools_Challenge.ipynb" while the homework file was named "PyCitySchools.ipynb" much of the challenge is again simply restructuring what we have learned in "PyCitySchools.ipynb" and making it work in the challenge file. Screenshots will be added where it is necessary. 
 
 
- ## Code and Comparisons
+ ### Code and Comparisons
