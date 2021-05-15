@@ -71,6 +71,14 @@ Use LOC function once again as well as COUNT() to find the number of students in
 
 - Using the LOC function to replace the passing math and reading percentage for Thomas High school in the per_school_summary Dataframe. As well as Overall passing percentage. ![Part 13](https://user-images.githubusercontent.com/82983000/118373873-02602580-b587-11eb-9671-af445ddaaeee.png)
 ![Part 14](https://user-images.githubusercontent.com/82983000/118373887-186de600-b587-11eb-88f5-8ba512788428.png)
+### High and Low Performing Schools
+
+-  By sorting through values we can determine the high and low perfoming schools with ascending=False and ascending=True respectuvly.
+    - per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
+    - per_school_summary_df.sort_values(["% Overall Passing"], ascending=True)
+
+![Part 15](https://user-images.githubusercontent.com/82983000/118374024-d5f8d900-b587-11eb-884c-066eb5f3aa92.png)
+![Part 16](https://user-images.githubusercontent.com/82983000/118374025-d7c29c80-b587-11eb-957f-3da06195e36e.png)
 
 
 
