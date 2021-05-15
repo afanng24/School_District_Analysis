@@ -47,6 +47,8 @@ Use LOC function once again as well as COUNT() to find the number of students in
 
 - Setting up the passing_math_count and passing_reading_count dictionaries so we cand later set them into percentages by dividing them against new_total_count and multiplying by 100. Calculate the overall passing percentage by combining the two into overall_passing_math_reading_count and turning that into percentages with the same steps as previously noted before. ![Part 4](https://user-images.githubusercontent.com/82983000/118373098-e9ee0c00-b582-11eb-8fd1-7a20d7b970dd.png)
 
+- Creating a district_summary_df and formatting every number to have a comma for a thousands separator and decimal seperator. ![Part 5](https://user-images.githubusercontent.com/82983000/118373135-40f3e100-b583-11eb-90e2-ab30454eeec7.png)
+
   
 
 
