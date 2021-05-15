@@ -81,7 +81,6 @@ Use LOC function once again as well as COUNT() to find the number of students in
 ![Part 16](https://user-images.githubusercontent.com/82983000/118374025-d7c29c80-b587-11eb-957f-3da06195e36e.png)
 
 
-
-
-
+### Math and Reading Scores by Grade
+- 
 
