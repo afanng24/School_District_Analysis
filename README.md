@@ -87,4 +87,7 @@ Use LOC function once again as well as COUNT() to find the number of students in
 ![Part 19](https://user-images.githubusercontent.com/82983000/118376731-d26d4e00-b597-11eb-96f5-6d3ee1f3d8f1.png)
 ![Part 20](https://user-images.githubusercontent.com/82983000/118376762-eadd6880-b597-11eb-8651-9ec79b3a12e5.png)
 
+### Scores by School Spending, Scores by School Size
 
+
+### Scores by School Type
