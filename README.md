@@ -58,6 +58,13 @@ Use LOC function once again as well as COUNT() to find the number of students in
 
 - Formatting the Total School Budget and Per Student Budget, once again already written in “PyCitySchools” as well as displaying the new Dataframe. ![Part 9](https://user-images.githubusercontent.com/82983000/118373462-e8bdde80-b584-11eb-85fa-b974a785731b.png)
 
+- Using the LOC function we are to separate everyone that’s not in 9th grade from the variables “Thomas High School” and “Student ID” to create a new total_thomas_students dictionary that does not include the 9th grade stats. 
+  - tenth_graders = school_data_complete_df.loc[(school_data_complete_df["grade"]== "10th")
+                                                     &(school_data_complete_df["school_name"]=="Thomas High School")].count()['Student ID']
+- Passing Math and Reading are accomplished with the same LOC code as well. Afterwards they are combined to create a total_thomas_students_passing dictionary. 
+
+  - passing_math = school_data_complete_df.loc[(school_data_complete_df["school_name"]=="Thomas High School") & (school_data_complete_df["math_score"] >= 70)].count()["Student ID"]
+  - passing_reading = school_data_complete_df.loc[(school_data_complete_df["school_name"]=="Thomas High School") & (school_data_complete_df["reading_score"]
 
 
 
