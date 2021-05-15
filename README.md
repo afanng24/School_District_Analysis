@@ -37,7 +37,7 @@ The student names had suffixes and prefixes, cleaned them by using the FOR IN fu
     - student_data_df.loc[(student_data_df['school_name'] == 'Thomas High School') & (student_data_df['grade'] == '9th'), 'reading_score'] = np.nan
     - student_data_df.loc[(student_data_df['school_name'] == 'Thomas High School') & (student_data_df['grade'] == '9th'), 'math_score'] = np.nan
 
-- Chekcing the last 10 students to make sure Thomas High School 9th grader stats were replaced.![Part 2](https://user-images.githubusercontent.com/82983000/118372747-1a34ab00-b581-11eb-81e5-1a7eee62014a.png)
+- Checking the last 10 students to make sure Thomas High School 9th grader stats were replaced.![Part 2](https://user-images.githubusercontent.com/82983000/118372747-1a34ab00-b581-11eb-81e5-1a7eee62014a.png)
 
 
 
