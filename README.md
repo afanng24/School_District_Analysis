@@ -54,6 +54,8 @@ Use LOC function once again as well as COUNT() to find the number of students in
 ### School Summary
   
 - Determining the school type was already completed in “PyCitySchools” and everything here is done to find the per school summary based on scores and budget. ![Part 6](https://user-images.githubusercontent.com/82983000/118373287-0e96b380-b584-11eb-9709-29e4c385251f.png)
+- Creating the per_school_summary Dataframe by the new per_school dictionaries and showing all 15 schools affected by the change. ![Part 7](https://user-images.githubusercontent.com/82983000/118373365-6df4c380-b584-11eb-95ac-cad40f77a0ba.png) ![Part 8](https://user-images.githubusercontent.com/82983000/118373387-882ea180-b584-11eb-87cc-a1d4123e91ee.png)
+
 
 
 
