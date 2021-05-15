@@ -39,6 +39,14 @@ The student names had suffixes and prefixes, cleaned them by using the FOR IN fu
 
 - Checking the last 10 students to make sure Thomas High School 9th grader stats were replaced.![Part 2](https://user-images.githubusercontent.com/82983000/118372747-1a34ab00-b581-11eb-81e5-1a7eee62014a.png)
 
+- Use the LEN() function to calculate school count. Use the COUNT() function for student count and SUM() function for total school budget. Calculate the average math and reading scores by using the MEAN() function.
+Use LOC function once again as well as COUNT() to find the number of students in 9th grade at Thomas High School. 
+  - ninth_grade = student_data_df.loc[(student_data_df["grade"]== "9th")&(student_data_df["school_name"]=="Thomas High School")].count()['Student ID']
+
+- Find the total student count with COUNT() and then subtracting ninth grade count from total student count. ![Part 3](https://user-images.githubusercontent.com/82983000/118372971-3258fa00-b582-11eb-8c9d-1cd791dfd2b8.png)
+
+
+  
 
 
 
