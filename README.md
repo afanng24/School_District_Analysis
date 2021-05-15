@@ -67,6 +67,7 @@ Use LOC function once again as well as COUNT() to find the number of students in
   - passing_reading = school_data_complete_df.loc[(school_data_complete_df["school_name"]=="Thomas High School") & (school_data_complete_df["reading_score"]
  ![Part 10](https://user-images.githubusercontent.com/82983000/118373606-d7290680-b585-11eb-9568-2767937a7726.png)
 ![Part 11](https://user-images.githubusercontent.com/82983000/118373652-06d80e80-b586-11eb-97c6-af60731ca26e.png)
+- Calculate the percentage of 10th-12th grade students passing math and reading and then combining them into an overall passing percentage as had been done before during “clean student data.”![Part 12](https://user-images.githubusercontent.com/82983000/118373776-836aed00-b586-11eb-888c-eb25e8877580.png)
 
 
 
