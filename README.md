@@ -4,7 +4,7 @@
 
 
 
-## Resources
+### Resources
 **Source of Data** : schools_complete.csv, students_complete.csv
 
 **Software** : Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
