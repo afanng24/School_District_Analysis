@@ -34,6 +34,16 @@ Using newly acquired data the refactored code will also need to recreate the dis
   ![RefactoredlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382787-c947a580-b5c6-11eb-87cc-07424ac02762.png)
 
 - Replacing Scores
+- Compared to other schools there is no change 
+
+Original 
+
+![Orignal](https://user-images.githubusercontent.com/82983000/118383144-50961880-b5c9-11eb-8681-e9d94f3fe0e3.png)
+
+Refactored  
+![Refactored](https://user-images.githubusercontent.com/82983000/118383146-5855bd00-b5c9-11eb-806f-77382aa63448.png)
+
+
 
   - Math and reading scores by grade
   - Scores by school spending
