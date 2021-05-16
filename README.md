@@ -21,14 +21,14 @@ Using newly acquired data the refactored code will also need to recreate the dis
 ![Challegne district](https://user-images.githubusercontent.com/82983000/118382679-b2ed1a00-b5c5-11eb-9b53-b786248fe12e.png)
 
 
-- School Summary
+### School Summary
 
-- Original School Summary
+  - Original School Summary
 
 ![OrigianlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382783-c056d400-b5c6-11eb-9ecd-4669e5d73a3d.png)
 
 
-- Refactored School Summary
+  - Refactored School Summary
 
 
 ![RefactoredlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382787-c947a580-b5c6-11eb-87cc-07424ac02762.png)
