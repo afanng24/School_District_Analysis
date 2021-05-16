@@ -22,7 +22,7 @@ Using newly acquired data the refactored code will also need to recreate the dis
 
 
 ### School Summary
-
+- There does not seem to be any change in overall school summary. Looking further into the not formatted charts there is a neglible change in overall passing percentage. 
   - Original School Summary 
 
 
