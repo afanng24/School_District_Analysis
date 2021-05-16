@@ -30,7 +30,8 @@ Using newly acquired data the refactored code will also need to recreate the dis
 
 
   - Refactored School Summary 
-   ![RefactoredlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382787-c947a580-b5c6-11eb-87cc-07424ac02762.png)
+
+  ![RefactoredlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382787-c947a580-b5c6-11eb-87cc-07424ac02762.png)
 
 - Replacing Scores
 
