@@ -36,11 +36,11 @@ Using newly acquired data the refactored code will also need to recreate the dis
 ### Replacing Scores
 - There is no real change in score by school spending, school size, nor school type. 
 - Compared to other schools there is no change in placement or budget however in Thomas High School:
--   Passing percentage shift from 90.95 to 90.60
--   Average math score from 83.41 to 83.35
--   Average reading score from 83.85 to 83.90
--   Math percentage from 93.27 to 93.19
--   Reading percentage from 97.31 to 97.02 
+  -   Passing percentage shift from 90.95 to 90.60
+  -   Average math score from 83.41 to 83.35
+  -   Average reading score from 83.85 to 83.90
+  -   Math percentage from 93.27 to 93.19
+  -   Reading percentage from 97.31 to 97.02 
 
 ### Original 
 
