@@ -13,7 +13,8 @@ Using newly acquired data the refactored code will also need to recreate the dis
 **Software** : Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
 
 ## Results
-- District Summary
+### District Summary
+- There is a neglible -0.1 change in Average Math Score and -0.2 Passing Math percentage after 9th grade Thomas High School was taken out. Passing Reading percentage did fall by 0.3 percent. 
   - Original PyCitySchool District  ![OrigianlDistrict](https://user-images.githubusercontent.com/82983000/118382674-ac5ea280-b5c5-11eb-81a2-0bc2c84258fb.png)
 
   - Refactored District 
