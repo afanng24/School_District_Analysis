@@ -34,6 +34,7 @@ Using newly acquired data the refactored code will also need to recreate the dis
   ![RefactoredlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382787-c947a580-b5c6-11eb-87cc-07424ac02762.png)
 
 - Replacing Scores
+- There is no real change in score by school spending, school size, nor school type. 
 - Compared to other schools there is no change in placement or budget however in Thomas High School:
 -   Passing percentage shift from 90.95 to 90.60
 -   Average math score from 83.41 to 83.35
@@ -51,9 +52,7 @@ Using newly acquired data the refactored code will also need to recreate the dis
 
   
 ## Summary
-4 changes in the updated school distrcit after the replacement scores. 
-
-
+The perceived academic dishonesty has changed the Thomas High School statistics in all accounts including overall passing percentage, average math score, average reading score, as well as both math and reading passing percentage. The changes in Thomas High School itself is negligible and non-existent to the overall school summaries when it comes to size or type.  
 
 
 
