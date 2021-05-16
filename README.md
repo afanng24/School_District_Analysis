@@ -24,6 +24,8 @@ Using newly acquired data the refactored code will also need to recreate the dis
 ### School Summary
 
   - Original School Summary 
+
+
   ![OrigianlSchoolSummary](https://user-images.githubusercontent.com/82983000/118382783-c056d400-b5c6-11eb-9ecd-4669e5d73a3d.png)
 
 
