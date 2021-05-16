@@ -41,19 +41,13 @@ Using newly acquired data the refactored code will also need to recreate the dis
 -   Math percentage from 93.27 to 93.19
 -   Reading percentage from 97.31 to 97.02 
 
-Original 
+### Original 
 
 ![Orignal](https://user-images.githubusercontent.com/82983000/118383144-50961880-b5c9-11eb-8681-e9d94f3fe0e3.png)
 
-Refactored  
+### Refactored  
 ![Refactored](https://user-images.githubusercontent.com/82983000/118383146-5855bd00-b5c9-11eb-806f-77382aa63448.png)
 
-
-
-  - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
 
   
 ## Summary
