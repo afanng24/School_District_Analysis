@@ -14,6 +14,12 @@ Using newly acquired data the refactored code will also need to recreate the dis
 
 ## Results
 - District Summary
+  - Original PyCitySchool District  ![OrigianlDistrict](https://user-images.githubusercontent.com/82983000/118382674-ac5ea280-b5c5-11eb-81a2-0bc2c84258fb.png)
+
+  - Refactored District 
+![Challegne district](https://user-images.githubusercontent.com/82983000/118382679-b2ed1a00-b5c5-11eb-9b53-b786248fe12e.png)
+
+
 - School Summary
 - Replacing Scores
 
